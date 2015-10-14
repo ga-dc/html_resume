@@ -10,6 +10,8 @@ Your HTML should validate using the [W3 Validator](https://validator.w3.org/nu/)
 
 You may not use any of the following tags:
 
+# This is a bad idea.
+
 ```
 <link>
 <script>
