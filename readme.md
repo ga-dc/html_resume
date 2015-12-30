@@ -83,7 +83,7 @@ Come back to this page, and create a new issue that contains a link to your Gist
 
 -----
 
-# Part 2 
+# Part 2
 
 ## Publish your site on Github
 
@@ -95,4 +95,3 @@ Come back to this page, and create a new issue that contains a link to your Gist
 - Push your files to the remote repository
 - In your web browser, go to `YourGithubUsername.github.io`
 - Revel in the positive feels from having published this webpage!
-
