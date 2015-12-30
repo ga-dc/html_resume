@@ -58,7 +58,8 @@ You can write the whole thing on the Gist page, or write it in a text editor and
 
 **Be sure to click "Create Public Gist".** If you click "Create Private Gist", no-one will be able to see your homework!
 
-To view your HTML as an actual webpage, click the "Raw" button on the Gist, and then add "htmlpreview.github.io/?" to the beginning of that page's URL.
+To view your HTML as an actual webpage, click the "Raw" button on the Gist, and then add "htmlpreview.github.io/?" to the beginning of that
+page's URL.
 
 For example, to view the HTML of this Gist:
 
